@@ -26,7 +26,7 @@ Welcome to the Gemini Clone Chat Application! This project is a web-based chat a
 
 ## Demo
 
-![Gemini Clone Demo](https://github.com/PoojaR-17/Gimin-clone/blob/main/gimini-clone.png)
+![Gemini Clone Demo](https://github.com/PoojaR-17/Gimini-Clone-App/blob/main/gimini-clone.png)
 
 ## Technologies Used
 
